@@ -3,14 +3,14 @@
 - 🧑‍💻 I'm interested in full-stack web development, open-source projects, and learning new technologies actively.
 - 🌱 I'm currently learning advanced React, Express.js, and backend development with Node.js & MongoDB.
 - 💡 I'm looking to collaborate on web applications, open-source projects, and anything JavaScript-related.
-- 📬 How to reach me: lokeshkonathala18@gmail.com | [LinkedIn](https://linkedin.com/in/linkedin.com/in/lokesh-konathala-412752289)
+- 📬 How to reach me: lokeshkonathala18@gmail.com | [LinkedIn](https://www.linkedin.com/in/lokesh-konathala-412752289/)
 - 🗣️ Pronouns: He/Him
 
 ---
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/linkedin.com/in/lokesh-konathala-412752289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lokesh-konathala-412752289/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:lokeshkonathala18@gmail.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef)](https://www.codechef.com/users/klokesh018)
 
